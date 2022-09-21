@@ -8,13 +8,14 @@ Stata is used in economics, finance, and biostatistics. Many employers still use
 
 # V2: Open New Stata Files in Old Versions of Stata using Python
 I am old - and I use Stata 13 in 2022! The World has moved on and young people use Stata 17. This video shows you how to open new Stata files in old versions of Stata using 2 lines of code in Python. Join the rebellion - say no to endless upgrades that cost money. Python is the way!
-Folder: OldFiles
+## Folder: OldFiles
 
 [YouTube Video 2](https://youtu.be/zVzSix2SZjs)
 
 
 # V3: World Development Indicators: Reshaping Data using Stata
 This video demonstrates data wrangling in Stata. I show you how to get data from the World Development Indicators database into a useable panel data format. We cover the insheet, sort, by, forvalues (loops), and expand commands in Stata. A similar approach can be used for other data providers.
+## Folder: WDI
 
 [YouTube Video 3](https://youtu.be/Ao8AjlynzP4)
 
