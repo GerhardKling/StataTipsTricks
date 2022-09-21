@@ -1,1 +1,1 @@
-# StataTipsTricks
+# Stata Tips & Tricks
