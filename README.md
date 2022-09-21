@@ -22,11 +22,13 @@ This video demonstrates data wrangling in Stata. I show you how to get data from
 
 # V4: Creating Dummy Variables in Stata: Three Quick Methods
 This video demonstrates three methods that can be used to create dummy variables in Stata. The tabulate command can be very useful if you have a categorical variable, which you want to convert into dummies (e.g., year dummies).
+## Folder: Dummies
 
 [YouTube Video 4](https://youtu.be/cZJM5TJi0xs)
 
 
 # V5: The Collapse Command in Stata
 This video demonstrates the use of the collapse command in Stata. This command is useful to derive summary statistics for datasets. Finally, we discuss a method to preserve the original dataset.
+## Folder: Collapse
 
 [YouTube Video 5](https://youtu.be/woReGf96tl8)
