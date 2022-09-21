@@ -10,3 +10,21 @@ Stata is used in economics, finance, and biostatistics. Many employers still use
 I am old - and I use Stata 13 in 2022! The World has moved on and young people use Stata 17. This video shows you how to open new Stata files in old versions of Stata using 2 lines of code in Python. Join the rebellion - say no to endless upgrades that cost money. Python is the way!
 
 [YouTube Video 2](https://youtu.be/zVzSix2SZjs)
+
+
+# V3: World Development Indicators: Reshaping Data using Stata
+This video demonstrates data wrangling in Stata. I show you how to get data from the World Development Indicators database into a useable panel data format. We cover the insheet, sort, by, forvalues (loops), and expand commands in Stata. A similar approach can be used for other data providers.
+
+[YouTube Video 3](https://youtu.be/Ao8AjlynzP4)
+
+
+# V4: Creating Dummy Variables in Stata: Three Quick Methods
+This video demonstrates three methods that can be used to create dummy variables in Stata. The tabulate command can be very useful if you have a categorical variable, which you want to convert into dummies (e.g., year dummies).
+
+[YouTube Video 4](https://youtu.be/cZJM5TJi0xs)
+
+
+# V5: The Collapse Command in Stata
+This video demonstrates the use of the collapse command in Stata. This command is useful to derive summary statistics for datasets. Finally, we discuss a method to preserve the original dataset.
+
+[YouTube Video 5](https://youtu.be/woReGf96tl8)
