@@ -32,3 +32,10 @@ This video demonstrates the use of the collapse command in Stata. This command i
 ## Folder: Collapse
 
 [YouTube Video 5](https://youtu.be/woReGf96tl8)
+
+
+# V6: Why does Stata drop my variables?
+Why does Stata drop my dummies and other variables? Stata (or any other statistical software) commonly removes your variables from regression models. Stata states that the variable is collinear. What does that mean? How do we "correct" this problem?
+
+[YouTube Video 6](https://youtu.be/CgHueBDaEnU)
+
