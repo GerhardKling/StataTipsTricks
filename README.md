@@ -39,3 +39,7 @@ Why does Stata drop my dummies and other variables? Stata (or any other statisti
 
 [YouTube Video 6](https://youtu.be/CgHueBDaEnU)
 
+# V7: Variable lists in Stata
+We introduce variable lists in Stata and illustrate their use in the context of creating descriptive tables. This is useful if you want to reuse a set of variables in several analyses.
+
+[YouTube Video 7](https://youtu.be/mN60uDFLupU)
