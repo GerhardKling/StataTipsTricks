@@ -43,3 +43,8 @@ Why does Stata drop my dummies and other variables? Stata (or any other statisti
 We introduce variable lists in Stata and illustrate their use in the context of creating descriptive tables. This is useful if you want to reuse a set of variables in several analyses.
 
 [YouTube Video 7](https://youtu.be/mN60uDFLupU)
+
+# V8: Tables from Stata to Word
+We use the asdoc command to convert a Stata table with summary statistics into a Word document. The table can be modified easily. For instance, we adjust the font size, add a title and change the format. Finally, we create a table in Word for different sub-samples. This is a great way to create tables in Word from Stata.
+
+[YouTube Video 8](https://youtu.be/Hf5TtYMQARc)
